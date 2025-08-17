@@ -1,0 +1,286 @@
+[
+    {
+        "category": "AutoP3",
+        "settings": [
+            {
+                "type": 6,
+                "name": "autoP3",
+                "value": true
+            },
+            {
+                "type": 7,
+                "name": "renderType",
+                "value": 0
+            },
+            {
+                "type": 1,
+                "name": "circlePoints",
+                "value": 20
+            },
+            {
+                "type": 6,
+                "name": "usePresets",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "disableRender",
+                "value": false
+            },
+            {
+                "type": 7,
+                "name": "renderPreset",
+                "value": 0
+            },
+            {
+                "type": 5,
+                "name": "customColor1",
+                "value": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            {
+                "type": 5,
+                "name": "customColor2",
+                "value": [
+                    0,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            {
+                "type": 5,
+                "name": "customColor3",
+                "value": [
+                    200,
+                    200,
+                    200,
+                    255
+                ]
+            },
+            {
+                "type": 5,
+                "name": "customColor4",
+                "value": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            {
+                "type": 5,
+                "name": "customColor5",
+                "value": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            {
+                "type": 5,
+                "name": "renderColor",
+                "value": [
+                    167,
+                    216,
+                    255,
+                    255
+                ]
+            },
+            {
+                "type": 6,
+                "name": "animateRender",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "typeRendering",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "phase",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "sendMessages",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "disableAfterGoldor",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "debugMessages",
+                "value": false
+            }
+        ]
+    },
+    {
+        "category": "Extra",
+        "settings": [
+            {
+                "type": 6,
+                "name": "instaMid",
+                "value": false
+            },
+            {
+                "type": 1,
+                "name": "hClipBoost",
+                "value": 7
+            },
+            {
+                "type": 6,
+                "name": "invWalk",
+                "value": false
+            },
+            {
+                "type": 1,
+                "name": "lavaClipBlocks",
+                "value": 40
+            },
+            {
+                "type": 6,
+                "name": "bossClip",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "witherESP",
+                "value": false
+            },
+            {
+                "type": 5,
+                "name": "witherESPColor",
+                "value": [
+                    255,
+                    255,
+                    255
+                ]
+            },
+            {
+                "type": 6,
+                "name": "leapNotifier",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "LeapMessage",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "vertJerry",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "zeroPingEtherwarp",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "keepMotion",
+                "value": false
+            }
+        ]
+    },
+    {
+        "category": "Blink",
+        "settings": [
+            {
+                "type": 6,
+                "name": "timerBalance",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "displayPackets",
+                "value": false
+            },
+            {
+                "type": 1,
+                "name": "removeAmount",
+                "value": 50
+            },
+            {
+                "type": 1,
+                "name": "removeInterval",
+                "value": 10
+            },
+            {
+                "type": 6,
+                "name": "balanceBoss",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "renderBlink",
+                "value": false
+            }
+        ]
+    },
+    {
+        "category": "Auto Leap",
+        "settings": [
+            {
+                "type": 6,
+                "name": "autoLeap",
+                "value": false
+            },
+            {
+                "type": 4,
+                "name": "ee2Leap",
+                "value": ""
+            },
+            {
+                "type": 4,
+                "name": "ee3Leap",
+                "value": ""
+            },
+            {
+                "type": 4,
+                "name": "coreLeap",
+                "value": ""
+            },
+            {
+                "type": 4,
+                "name": "inCoreLeap",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "category": "Insta 1",
+        "settings": [
+            {
+                "type": 6,
+                "name": "insta1",
+                "value": false
+            },
+            {
+                "type": 1,
+                "name": "insta1Delay",
+                "value": 0
+            },
+            {
+                "type": 1,
+                "name": "insta1Clicks",
+                "value": 0
+            },
+            {
+                "type": 1,
+                "name": "insta1Ping",
+                "value": 0
+            }
+        ]
+    }
+]

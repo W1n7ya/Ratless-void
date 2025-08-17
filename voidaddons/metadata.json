@@ -1,0 +1,7 @@
+{
+  "name": "voidaddons",
+  "creator": "void",
+  "version": "1.0.0",
+  "requires": ["PogData", "BloomCore", "RenderLibV2", "KeybindFix", "Amaterasu", "requestV2"],
+  "entry": "index.js"
+}
